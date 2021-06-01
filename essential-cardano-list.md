@@ -486,6 +486,7 @@ Here is a list of active stake pools:
 - [Cool](https://stakecool.io/)
 - [COSD](https://cosd.com/pool) 
 - [DEW](https://www.dew-stake.com/)
+- [GAIA](https://www.gaiastakepool.com/)
 - [HOPE](https://cardano.ipclub29.com/)
 - [kBLOCKS](https://kblocks.net/)
 - [KIND](https://kindstakepool.com/)
